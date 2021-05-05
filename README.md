@@ -28,8 +28,8 @@ new ⚡technologies⚡, and solving real-world problems🔭.
   ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS) ![Graphql](https://img.shields.io/badge/-Graphql-E10098?style=plastic&logo=Graphql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
 
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-
 [![ushair's github stats](https://github-readme-stats.vercel.app/api?username=ushair&theme=dark&show_icons=true)](https://github.com/ushair)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ushair&layout=compact&theme=dark)](https://github.com/ushair/github-readme-stats)
 
+
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/ushair/blob/master/code.gif?raw=true" width="500" height="320" />

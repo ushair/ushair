@@ -32,3 +32,5 @@ new ⚡technologies⚡, and solving real-world problems🔭.
 - ⚡️ Fun fact: I'm a huge fan of Iron Man, I love to eat and travel
 
 [![ushair's github stats](https://github-readme-stats.vercel.app/api?username=ushair&theme=dark&show_icons=true)](https://github.com/ushair)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ushair&layout=compact)](https://github.com/ushair/github-readme-stats)
+

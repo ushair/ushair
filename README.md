@@ -32,4 +32,4 @@ new ⚡technologies⚡, and solving real-world problems🔭.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ushair&layout=compact&theme=dark)](https://github.com/ushair/github-readme-stats)
 
 
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/ushair/blob/master/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/ushair/ushair/blob/master/code.gif?raw=true" width="500" height="320" />

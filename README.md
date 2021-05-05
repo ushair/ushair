@@ -34,7 +34,7 @@ new ⚡technologies⚡, and solving real-world problems🔭.
 <table width="100%"> 
   <tr>
   <td width="50%">
-&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/21okxilbi3wpusg2d22t2sjmq)
+&nbsp; <br> [![Spotify](https://ushair.vercel.app/api/spotify)](https://open.spotify.com/user/21okxilbi3wpusg2d22t2sjmq)
   </td>
   <td width="50%">
     <img align="right" alt="GIF" src="code.gif" width="500" height="320" />

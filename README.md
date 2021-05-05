@@ -36,7 +36,5 @@ new ⚡technologies⚡, and solving real-world problems🔭.
   <td width="50%">
 &nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
   </td>
-  <td width="50%">
- <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
-    </td>
   </tr>
+   <img align="right" alt="GIF" src="code.gif" width="500" height="320" />

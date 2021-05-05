@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Software Developer with excellent problem-solving skills and the ability to perform well in a team. Passionate about coding, learning
+Full Stack Developer with excellent problem-solving skills and the ability to perform well in a team. Passionate about coding, learning
 new ⚡technologies⚡, and solving real-world problems🔭.
 
 [![Twitter Badge](https://img.shields.io/badge/-ushair-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/usha1r/)](https://twitter.com/usha1r/)

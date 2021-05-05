@@ -31,13 +31,6 @@ new ⚡technologies⚡, and solving real-world problems🔭.
 [![ushair's github stats](https://github-readme-stats.vercel.app/api?username=ushair&theme=dark&show_icons=true)](https://github.com/ushair)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ushair&layout=compact&theme=dark)](https://github.com/ushair/github-readme-stats)
 
-[![Spotify](https://ushair.vercel.app/api/spotify)](https://open.spotify.com/user/21okxilbi3wpusg2d22t2sjmq)
-<table width="100%"> 
-  <tr>
-  <td width="50%">
-  <br> 
-  </td>
-  <td width="50%">
-    <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
-   </td>
-  </tr>
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/21okxilbi3wpusg2d22t2sjmq)
+
+<img align="right" alt="GIF" src="code.gif" width="500" height="320" />

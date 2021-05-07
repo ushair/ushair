@@ -13,7 +13,7 @@ new ⚡technologies⚡, and solving real-world problems🔭.
   ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
   ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
+  ![VS Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
 - 💻 I work using:
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![MaterialUI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)

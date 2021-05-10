@@ -42,7 +42,7 @@ new ⚡technologies⚡, and solving real-world problems🔭.
   <tr>
   <td width="50%">
       
-&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
+&nbsp; <br> [![Spotify](https://ushair.vercel.app/api/spotify)](https://open.spotify.com/user/21okxilbi3wpusg2d22t2sjmq)
 
   </td>
   <td width="50%">
